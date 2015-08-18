@@ -1,7 +1,5 @@
 # FTrig
 
-<!-- [![NPM](https://nodei.co/npm/es6ify.png?downloads=true&stars=true)](https://nodei.co/npm/es6ify/) -->
-
 FTrig is a utility for fast approximate trigonometric calculating on javascript,
 based on [this article](http://lab.polygonal.de/?p=205).
 FTrig can be used with [Node.js](http://nodejs.org), 
@@ -22,8 +20,7 @@ A FTrig instance provides 2 functions: `sin` and `cos`, as alias of the 4 main f
 
 ## Download
 
-The source is available for download from
-[GitHub](http://github.com/caolan/async).
+The source is available for download by cloning.
 Alternatively, you can install via:
 
 - [npm](https://www.npmjs.com/): `To be updated`
